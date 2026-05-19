@@ -45,8 +45,6 @@ const strings = {
   skill_puzzle:     { he: 'קשב • זיכרון חזותי',       en: 'Attention • Visual memory' },
   rememberPuzzle:   { he: 'זכרי את הפאזל',             en: 'Remember the puzzle' },
   findThePiece:     { he: 'מה חסר בפאזל?',              en: 'Which piece is missing?' },
-  mod_puzzle:       { he: 'מצאי את החלק',          en: 'Find the Piece' },
-  skill_puzzle:     { he: 'קשב • זיהוי חזותי',     en: 'Attention • Visual' },
   puzzleInstr:      { he: 'מה החלק החסר בפאזל?',   en: 'What piece is missing from the puzzle?' },
   puzzlePick:       { he: 'בחרי את החלק החסר:',    en: 'Pick the missing piece:' },
   mod_bubble:       { he: 'פוצצי בועות',          en: 'Bubble Pop' },
