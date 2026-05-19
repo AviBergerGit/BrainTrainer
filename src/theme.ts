@@ -1,0 +1,40 @@
+export const Colors = {
+  cream: '#FDF6EC',
+  warm: '#F5EAD7',
+  green: '#4CAF7D',
+  greenLight: '#E8F5EE',
+  greenDark: '#378A5E',
+  coral: '#E87B5A',
+  coralLight: '#FDEEE9',
+  blue: '#4A90D9',
+  blueLight: '#EBF4FF',
+  purple: '#9B72CF',
+  purpleLight: '#F2ECFA',
+  yellow: '#F5C842',
+  yellowLight: '#FFFAE8',
+  teal: '#26B5B5',
+  tealDark: '#0A7B6C',
+  tealLight: '#E8FAF7',
+  pink: '#FF6B9D',
+  pinkLight: '#FFF0F6',
+  violet: '#7B5EA7',
+  violetLight: '#F5F0FF',
+  orange: '#E07B39',
+  orangeLight: '#FFF4EE',
+  navy: '#1565C0',
+  navyLight: '#E8F0FE',
+  text: '#2C2C2C',
+  textSoft: '#666666',
+  white: '#FFFFFF',
+  brown: '#8B6914',
+};
+
+export const Shadow = {
+  shadowColor: '#000',
+  shadowOffset: { width: 0, height: 4 },
+  shadowOpacity: 0.10,
+  shadowRadius: 12,
+  elevation: 4,
+};
+
+export const ROUNDS = 10;

@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "BrainTrainer",
+    "slug": "brain-trainer",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/BrainTrainer.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/BrainTrainer.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3DAA6B"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aviberger.BrainTrainer",
+      "buildNumber": "7",
+      "icon": "./assets/images/BrainTrainer.png",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-av"
+    ],
+    "scheme": "braintrainer",
+    "extra": {
+      "eas": {
+        "projectId": "ce334b49-85e5-4667-ad45-23bf0b35e16b"
+      }
+    },
+    "platforms": [
+      "ios"
+    ],
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
